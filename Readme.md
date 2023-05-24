@@ -1,1 +1,1 @@
-![OpenAI Logo](./pingpong.py)
+![game image](pingpong.py)
