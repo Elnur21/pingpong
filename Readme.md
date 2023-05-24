@@ -1,1 +1,1 @@
-<img src="./pingpong.py" alt="game image">
+![OpenAI Logo](./pingpong.py)
