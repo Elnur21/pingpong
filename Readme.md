@@ -1,1 +1,1 @@
-![game image](pingpong.py)
+![game image](pingpong.png)
